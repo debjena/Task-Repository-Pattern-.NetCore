@@ -1,0 +1,13 @@
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Debug\netcoreapp2.2\Test-Repo-Pattern.deps.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Debug\netcoreapp2.2\Test-Repo-Pattern.runtimeconfig.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Debug\netcoreapp2.2\Test-Repo-Pattern.runtimeconfig.dev.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Debug\netcoreapp2.2\Test-Repo-Pattern.dll
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.RazorAssemblyInfo.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.RazorAssemblyInfo.cs
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.AssemblyInfoInputs.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.AssemblyInfo.cs
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.RazorTargetAssemblyInfo.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Debug\netcoreapp2.2\Test-Repo-Pattern.pdb
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.dll
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Debug\netcoreapp2.2\Test-Repo-Pattern.pdb

@@ -1,0 +1,14 @@
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Release\netcoreapp2.2\Task-Repo-Pattern.deps.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Release\netcoreapp2.2\Task-Repo-Pattern.runtimeconfig.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Release\netcoreapp2.2\Task-Repo-Pattern.runtimeconfig.dev.json
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Release\netcoreapp2.2\Task-Repo-Pattern.dll
+C:\Users\djena3\source\repos\Test-Repo-Pattern\bin\Release\netcoreapp2.2\Task-Repo-Pattern.pdb
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.csprojAssemblyReference.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.RazorAssemblyInfo.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.RazorAssemblyInfo.cs
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.AssemblyInfoInputs.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.AssemblyInfo.cs
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.RazorTargetAssemblyInfo.cache
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.dll
+C:\Users\djena3\source\repos\Test-Repo-Pattern\obj\Release\netcoreapp2.2\Task-Repo-Pattern.pdb
