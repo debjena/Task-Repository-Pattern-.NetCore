@@ -26,3 +26,17 @@ C:\Task-repo-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.AssemblyInfo.cs
 C:\Task-repo-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.RazorTargetAssemblyInfo.cache
 C:\Task-repo-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.dll
 C:\Task-repo-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.pdb
+C:\Task-repository-pattern\bin\Debug\netcoreapp2.2\Task-Repo-Pattern.deps.json
+C:\Task-repository-pattern\bin\Debug\netcoreapp2.2\Task-Repo-Pattern.runtimeconfig.json
+C:\Task-repository-pattern\bin\Debug\netcoreapp2.2\Task-Repo-Pattern.runtimeconfig.dev.json
+C:\Task-repository-pattern\bin\Debug\netcoreapp2.2\Task-Repo-Pattern.dll
+C:\Task-repository-pattern\bin\Debug\netcoreapp2.2\Task-Repo-Pattern.pdb
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.csprojAssemblyReference.cache
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.csproj.CoreCompileInputs.cache
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.RazorAssemblyInfo.cache
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.RazorAssemblyInfo.cs
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.AssemblyInfoInputs.cache
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.AssemblyInfo.cs
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.RazorTargetAssemblyInfo.cache
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.dll
+C:\Task-repository-pattern\obj\Debug\netcoreapp2.2\Task-Repo-Pattern.pdb

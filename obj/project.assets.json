@@ -12173,11 +12173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Task-repo-pattern\\Task-Repo-Pattern.csproj",
+      "projectUniqueName": "C:\\Task-repository-pattern\\Task-Repo-Pattern.csproj",
       "projectName": "Task-Repo-Pattern",
-      "projectPath": "C:\\Task-repo-pattern\\Task-Repo-Pattern.csproj",
+      "projectPath": "C:\\Task-repository-pattern\\Task-Repo-Pattern.csproj",
       "packagesPath": "C:\\Users\\djena3\\.nuget\\packages\\",
-      "outputPath": "C:\\Task-repo-pattern\\obj\\",
+      "outputPath": "C:\\Task-repository-pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
