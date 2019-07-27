@@ -11,7 +11,7 @@ namespace Task_Repo_Pattern.Model
     public class Task
     {
         public long Id { get; set; }
-        [Required(ErrorMessage="Please enter task name.")]
+        [Required(ErrorMessage="Please enter task name!")]
         public string TaskName { get; set; }
         [DataType(DataType.Date)]
         [JsonConverter(typeof(IsoDateConverter))]

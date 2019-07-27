@@ -4950,3 +4950,29 @@
 2019-07-27 22:36:49.9335 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
 2019-07-27 22:36:49.9335 Trace File Target[logfile] has 2 layouts
 2019-07-27 22:36:49.9335 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2019-07-27 22:42:37.1998 Info AppDomain Shutting down. Logger closing...
+2019-07-27 22:42:37.1998 Debug Stopping file watching for path 'C:\Task-repository-pattern' filter 'nlog.config'
+2019-07-27 22:42:37.2224 Trace Flushing all targets...
+2019-07-27 22:42:37.2333 Trace ForEachItemInParallel() 1 items
+2019-07-27 22:42:37.2472 Trace FileTarget(Name=logfile): FlushAsync
+2019-07-27 22:42:37.2472 Trace Continuation invoked: 
+2019-07-27 22:42:37.2617 Trace Parallel task completed. 0 items remaining
+2019-07-27 22:42:37.2617 Trace FileTarget(Name=logfile): FlushAsync Done
+2019-07-27 22:42:37.2617 Debug Closing logging configuration...
+2019-07-27 22:42:37.2617 Trace Closing File Target[logfile]
+2019-07-27 22:42:37.2772 Debug Closing target 'File Target[logfile]'.
+2019-07-27 22:42:37.2772 Debug Closed target 'File Target[logfile]'.
+2019-07-27 22:42:37.2772 Trace Closing 'App_Data\logs\${shortdate}_log.txt'
+2019-07-27 22:42:37.2772 Trace Closing Layout Renderer: ${literal}
+2019-07-27 22:42:37.2930 Trace Closing Layout Renderer: ${shortdate}
+2019-07-27 22:42:37.2930 Trace Closing Layout Renderer: ${literal}
+2019-07-27 22:42:37.2930 Trace Closing '${longdate} ${level:uppercase=true} ${message}'
+2019-07-27 22:42:37.2930 Trace Closing Layout Renderer: ${longdate}
+2019-07-27 22:42:37.2930 Trace Closing Layout Renderer: ${literal}
+2019-07-27 22:42:37.2930 Trace Closing Layout Renderer: ${uppercase}
+2019-07-27 22:42:37.3077 Trace Closing SimpleLayout=Layout Renderer: ${level}
+2019-07-27 22:42:37.3077 Trace Closing Layout Renderer: ${level}
+2019-07-27 22:42:37.3077 Trace Closing Layout Renderer: ${literal}
+2019-07-27 22:42:37.3077 Trace Closing Layout Renderer: ${message}
+2019-07-27 22:42:37.3077 Debug Finished closing logging configuration.
+2019-07-27 22:42:37.3077 Info Logger has been shut down.
