@@ -16,7 +16,7 @@ namespace Task_Repo_Pattern.Repository
         {
             if (repositoryContext.Tasks.Count() == 0)
             {
-                repositoryContext.Tasks.Add(new Model.Task { TaskName = "Task1" , TaskDate=Convert.ToDateTime("04/25/2019") });
+                repositoryContext.Tasks.Add(new Model.Task { TaskName = "Task1" , TaskDate = "04/25/2019" });
                 repositoryContext.SaveChanges();
             }
         }
